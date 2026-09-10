@@ -28,7 +28,7 @@
 
 </div>
 
-**[Nexora]** — *"Learn. Connect. Compete."*
+**Nexora** — *"Learn. Connect. Compete."*
 A full-stack gamified social learning platform for students preparing for exams (JAMB/WAEC/NECO). Features quizzes, an AI study assistant, XP/levels/streaks, leaderboards, a community forum, and private chat.
 
 `React` `Tailwind CSS` `Node.js` `Express` `MongoDB`
@@ -83,6 +83,7 @@ A full-stack gamified social learning platform for students preparing for exams 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SkyGhost0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347026322835)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skyghost12)
 
 </div>
