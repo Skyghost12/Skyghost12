@@ -28,7 +28,7 @@
 
 </div>
 
-**[Nexora](https://github.com/Skyghost12/nexora)** — *"Learn. Connect. Compete."*
+**[Nexora]** — *"Learn. Connect. Compete."*
 A full-stack gamified social learning platform for students preparing for exams (JAMB/WAEC/NECO). Features quizzes, an AI study assistant, XP/levels/streaks, leaderboards, a community forum, and private chat.
 
 `React` `Tailwind CSS` `Node.js` `Express` `MongoDB`
