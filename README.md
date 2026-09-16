@@ -61,7 +61,7 @@ A full-stack gamified social learning platform for students preparing for exams 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Skyghost12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skyghost12&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyghost12&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skyghost12&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" /> -->
 </div>
 
 ---
