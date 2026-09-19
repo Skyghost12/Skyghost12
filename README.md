@@ -71,7 +71,6 @@ A full-stack gamified social learning platform for students preparing for exams 
 - Building and shipping client + personal projects under **Sky Tech**
 - Sharpening backend fundamentals (Node.js/Express, databases, APIs)
 - Learning mobile app development with **Flutter**
-- Growing **Sky Devices** — tech gadget sales & repair
 
 ---
 
